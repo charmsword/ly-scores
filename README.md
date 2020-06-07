@@ -19,5 +19,5 @@ Here you can find bits of scores for:
 
 ### some examples
 
-![](ly-scores/HP3GraveDangerlySteps.png)
-![](ly-scores/HP3Newspaper.png)
+![](HP3GraveDangerlySteps.png)
+![](HP3Newspaper.png)
