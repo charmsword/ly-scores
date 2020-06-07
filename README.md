@@ -19,5 +19,5 @@ Here you can find bits of scores for:
 
 ### some examples
 
-![](HP3GraveDangerlySteps.png)
-![](HP3Newspaper.png)
+![](HP3/HP3GraveDangerlySteps.png)
+![](HP3/HP3Newspaper.png) 
