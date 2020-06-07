@@ -16,3 +16,8 @@ Here you can find bits of scores for:
 	- Flesh and Bone
 	- Six Feet Under (Main Titles)
 	- Shawshank Redemption
+
+### some examples
+
+![](ly-scores/HP3GraveDangerlySteps.png)
+![](ly-scores/HP3Newspaper.png)
